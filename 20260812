@@ -1,0 +1,5 @@
+
+□VRFインスタンスからのSSHを許可する。 access-classとVRFの組み合わせ
+line vty 0 4
+ access-class [acl-number] in vrf-also
+ access-classを指定した場合、標準の動作は「グローバルルーティングテーブルのみ」を対象とする仕様となっている
