@@ -1,0 +1,4 @@
+
+RMON
+RMON（Remote Network Monitoring）とは、ネットワークの通信状況を遠隔から監視するための標準規格です。
+ネットワーク機器の管理に使う SNMP（Simple Network Management Protocol）の仕組みを利用し、トラフィック量やエラー率などの統計データを収集してネットワーク管理者に伝えます。
